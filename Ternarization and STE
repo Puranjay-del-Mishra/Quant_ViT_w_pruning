@@ -1,0 +1,1 @@
+This is our early attempts at making a custom ternarization module for quantisation. Loss does not reduce with this and is just here for reference for others.
